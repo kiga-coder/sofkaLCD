@@ -1,0 +1,11 @@
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\bin\Debug\netcoreapp3.0\SofkaLCD.exe
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\bin\Debug\netcoreapp3.0\SofkaLCD.deps.json
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\bin\Debug\netcoreapp3.0\SofkaLCD.runtimeconfig.json
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\bin\Debug\netcoreapp3.0\SofkaLCD.runtimeconfig.dev.json
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\bin\Debug\netcoreapp3.0\SofkaLCD.dll
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\bin\Debug\netcoreapp3.0\SofkaLCD.pdb
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\obj\Debug\netcoreapp3.0\SofkaLCD.csprojAssemblyReference.cache
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\obj\Debug\netcoreapp3.0\SofkaLCD.AssemblyInfoInputs.cache
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\obj\Debug\netcoreapp3.0\SofkaLCD.AssemblyInfo.cs
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\obj\Debug\netcoreapp3.0\SofkaLCD.dll
+C:\Users\mauricio\source\repos\SofkaLCD\SofkaLCD\obj\Debug\netcoreapp3.0\SofkaLCD.pdb
