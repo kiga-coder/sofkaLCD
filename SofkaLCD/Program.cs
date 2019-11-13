@@ -7,7 +7,7 @@ namespace SofkaLCD
 
         static void Main(string[] args)
         {
-            int i, j, n;
+            int i, j,n;
             n = 10; 
             for (i = 1; i < n + (n - 18); i++)
             {

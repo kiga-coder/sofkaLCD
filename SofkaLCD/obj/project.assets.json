@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauricio\\Desktop\\SOF\\SofkaLCD\\SofkaLCD.csproj",
+      "projectUniqueName": "C:\\Users\\mauricio\\Documents\\GitHub\\sofkaLCD\\SofkaLCD\\SofkaLCD.csproj",
       "projectName": "SofkaLCD",
-      "projectPath": "C:\\Users\\mauricio\\Desktop\\SOF\\SofkaLCD\\SofkaLCD.csproj",
+      "projectPath": "C:\\Users\\mauricio\\Documents\\GitHub\\sofkaLCD\\SofkaLCD\\SofkaLCD.csproj",
       "packagesPath": "C:\\Users\\mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mauricio\\Desktop\\SOF\\SofkaLCD\\obj\\",
+      "outputPath": "C:\\Users\\mauricio\\Documents\\GitHub\\sofkaLCD\\SofkaLCD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
